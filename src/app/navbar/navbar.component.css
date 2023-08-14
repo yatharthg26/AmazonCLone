@@ -1,0 +1,31 @@
+
+.navbar-logo{
+    height: 60px;
+    width: 230px;
+  }
+  .navbar-searcharea{
+    
+    display: flex;
+  }
+  .navbar-searchbar{
+    display: flex;
+    width: 460px;
+    height: 45px;
+  }
+  .navbar{
+    display: flex;
+    background-color: #0F1111;
+    height: 70px;
+    align-items: baseline;
+  }
+  .navbar-cartimage{
+    height: 50px;
+    width: 50px;
+  }
+ 
+  
+  
+  .navbar-mangnifyglass{
+    height: 42px;
+    width: 40px;
+  }
